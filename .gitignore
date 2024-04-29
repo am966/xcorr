@@ -1,0 +1,12 @@
+# files for git to ignore
+#
+#####################
+# Generated files
+######################
+*.o
+*.mod
+#####################
+# Binary
+######################
+*.gfortran
+xcorr.gfortran*
